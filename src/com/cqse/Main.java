@@ -13,4 +13,10 @@ public class Main {
         int TEST_VALUE = 5;
         return "Blubba";
     }
+
+    private void blob() {
+        String woah = "wuha";
+        if(5 == 3)
+            woah.length();
+    }
 }
